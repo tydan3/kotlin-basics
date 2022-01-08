@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="die_roll_result">Die rolled a %d!</string>
+    <string name="dice_roll_result">Your dice rolled %d!</string>
+
+</resources>
