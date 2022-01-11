@@ -15,7 +15,7 @@ import org.junit.runner.RunWith
 
 @RunWith(AndroidJUnit4::class)
 class CalculatorTests {
-    @get:Rule()
+    @get:Rule
     val activity = ActivityScenarioRule(MainActivity::class.java)
 
     @Test

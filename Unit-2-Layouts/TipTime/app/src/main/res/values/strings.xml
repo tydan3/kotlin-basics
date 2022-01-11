@@ -8,4 +8,6 @@
     <string name="calculate">Calculate</string>
     <string name="tip_amount">Tip Amount: %s</string>
     <string name="cost_of_service">Cost of Service</string>
+    <string name="custom_tip">Custom (__%)</string>
+    <string name="custom_tip_input">Custom Tip %</string>
 </resources>
