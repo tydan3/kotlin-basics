@@ -30,7 +30,7 @@ import com.example.wordsapp.databinding.ActivityMainBinding
  */
 class MainActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
-    private var isLinearLayoutManager = true
+    private var isLinearLayoutManager = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
